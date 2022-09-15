@@ -69,7 +69,7 @@ for (const child of document.querySelector('.footer').children) {
     child.style.border = 'solid 6px ' + color2;
     child.style.width = '10vw';
     child.style.minWidth = '170px';
-    child.style.height = '10vw';
+//    child.style.height = '10vw';
     child.style.minHeight = '170px';
     child.style.margin = 'auto';
     child.style.textAlign = 'center';
